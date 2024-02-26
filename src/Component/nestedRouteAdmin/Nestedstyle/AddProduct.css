@@ -1,0 +1,61 @@
+.product
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 42px;
+    left: 32%;
+    background: navajowhite;
+    width: 35%;
+    border-radius: 2%;
+    padding: 3% 0%;
+    filter: opacity(90%);
+}
+
+.supreme 
+{
+     /* background-image: url(admadd.gif);  */
+    background-color: darkolivegreen;
+    height: 100vh;
+}
+
+.product input
+{
+  margin-left: 20%;
+  margin-top: 5% ;
+  margin-bottom: 5% ;
+  outline: none;
+  border: none;
+  border-bottom: 2px dotted blue;
+  background: transparent;
+  padding-left: 1%;
+  width: 80%;
+}
+
+.product select
+{
+    height: 26px;
+    width: 100px;
+    text-align: center;
+    outline-color: blue;
+}
+
+.product button 
+{
+    padding: 1%;
+    width: 88px;
+    border: none;
+    background-color: transparent;
+    border-radius: 20%;
+    transition: 0.2s;
+    margin-top: 15%;
+    margin-left: 36%;
+    
+}
+
+.product button:hover
+{
+    transform: scale(1.5);
+    text-shadow: 0px 0px 10px blue;
+}

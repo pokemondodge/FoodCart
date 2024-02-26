@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    font-family: cursive;
+}
+
+/* .parent
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    // background-image: url(/ReactJs/shoppingapp/public/register.gif);
+    background-size: 100% 100%;
+} */
+
+.child
+{
+    
+    height: 85%;
+    width: 30%;
+    box-shadow: 0px 0px 10px rgb(135, 119, 119);
+    padding: 20px;
+    background-color: white;
+    filter: opacity(80%);
+    margin-left: 50%;
+    border-radius: 3%;
+}
+
+.ip
+{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid blue;
+    height: 25px;
+    width: 450px;
+    padding-left: 4px;
+    margin: 10px 5px;
+    background: transparent;
+}
+
+.cap
+{
+    display: flex;
+    align-items: center;
+}
+
+.cap img
+{
+    margin-left: 12px;
+}
+.cap input
+{ 
+    outline: none;
+    border: none;
+    border-bottom: 2px solid blue;
+    height: 25px;
+    width: 100px;
+    padding-left: 4px;
+    margin: 20px 15px;
+    background: transparent;
+}
+
+#btnU:hover
+{
+    transform: scale(1.3);
+}
+
+#btnA:hover
+{
+    transform: scale(1.3);
+}

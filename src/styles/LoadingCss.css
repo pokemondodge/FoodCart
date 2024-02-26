@@ -1,0 +1,16 @@
+.pulsate {
+    animation: pulsate 0.7s ease-out infinite;
+    margin-top: 15%;
+  }
+
+  @keyframes pulsate {
+    0% {
+      transform: scaleX(1) ;
+    }
+    50% {
+      transform: scaleX(1.5) ;
+    }
+    100% {
+      transform: scaleX(1) ;
+    }
+  }

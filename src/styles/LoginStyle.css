@@ -1,0 +1,57 @@
+.div1{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.div2
+{
+    padding: 5%;
+    box-shadow: 0px 0px 10px gray;
+    z-index: 2;
+    background-color: white;
+    filter: opacity(80%);
+}
+.div3
+{
+    height:50% ;
+    display: block;
+}
+
+.div3 input
+{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid blue;
+    /* border-radius: 5px; */
+    height: 25px;
+    width: 120px;
+    padding-left: 4px;
+    margin: 15px 5px;
+    background-color: transparent;
+}
+
+.div3 button
+{
+    border: none;
+    background-color: transparent;
+    text-shadow: 0px 0px 10px blue;
+    font-size: large;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.div3 button:hover
+{
+    transform: scale(1.14);
+}
+
+.div3 a
+{
+    text-decoration: none;
+    color: red;
+}
+.div3 a:hover
+{
+    color: purple;
+}

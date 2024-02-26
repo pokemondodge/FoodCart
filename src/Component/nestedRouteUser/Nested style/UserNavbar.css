@@ -1,0 +1,53 @@
+.navbar
+{
+    display: flex;
+    justify-content:space-between;
+    /* align-items: center;  */
+    padding: 0.3% 10%;
+    background-color: peachpuff;
+    position: sticky;
+    top: 0;
+}
+
+.options a
+{
+    /* margin: 0px 20px; */
+    text-decoration: none;
+}
+.options a:hover
+{
+    text-shadow: 0px 0px 10px blue;
+}
+
+#button:hover
+{
+    text-shadow: 0px 0px 10px blue;
+}
+
+#lnk
+{
+    text-decoration: none;
+    text-shadow: 0px 0px 10px blue;
+
+}
+
+#lnk:hover      
+{
+    text-shadow: 0px 0px 10px white;
+
+}
+
+#hov:hover
+{
+    box-shadow: 0px 0px 12px goldenrod ;
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+#search
+{
+    border: none;
+    box-shadow: 0px 0px 5px blue;
+    display: flex;
+    outline: green;
+}

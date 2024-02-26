@@ -1,0 +1,193 @@
+{
+  "MOVIES": [
+    {
+      "id": "1",
+      "name": "KGF",
+      "image": "https://m.media-amazon.com/image"
+    },
+    {
+      "id": "2",
+      "name": "Spiderman",
+      "image": "https://m.media-amazon.com/image"
+    },
+    {
+      "id": "3",
+      "name": "Hulk and agents of smash",
+      "image": "https://m.media-amazon.com/image"
+    }
+  ],
+  "Admin": [
+    {
+      "id": "1420",
+      "name": "Raghav",
+      "uname": "raghav123",
+      "phone": "9450623658",
+      "email": "raghav@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "c18e",
+      "name": "Nadu",
+      "uname": "nandu124",
+      "phone": "9458789563",
+      "email": "nandu@gmail.com",
+      "password": "123"
+    }
+  ],
+  "User": [
+    {
+      "id": "6765",
+      "name": "Raghav",
+      "uname": "raghav123",
+      "phone": "9450623658",
+      "email": "raghav@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "ff93",
+      "name": "john",
+      "uname": "john",
+      "phone": "9452362656",
+      "email": "john@gmail.com",
+      "password": "johnofarc"
+    },
+    {
+      "id": "710f",
+      "name": "jones",
+      "uname": "jones",
+      "phone": "9458789656",
+      "email": "jones@gmail.com",
+      "password": "meghna"
+    },
+    {
+      "id": "b3e1",
+      "name": "Jonathan",
+      "uname": "jonathan",
+      "phone": "9457856523",
+      "email": "jonathan@gm",
+      "password": "johntha"
+    }
+  ],
+  "Products": [
+    {
+      "id": "0808a",
+      "name": "marshmallow",
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2021/12/homemade-marshmallows-3-500x500.jpg",
+      "price": "124 INR.",
+      "res": "Basanti Halwai",
+      "quant": "123",
+      "category": "veg",
+      "rating": "3"
+    },
+    {
+      "id": "0404",
+      "name": "maggi",
+      "image": "https://images.aws.nestle.recipes/resized/f453674e268bf386d75803ddba6be54d_A42I0655_944_531.jpg",
+      "price": "87 INR.",
+      "res": "Basanti Halwai",
+      "quant": "50",
+      "category": "veg",
+      "rating": "4"
+    },
+    {
+      "id": "6287",
+      "name": "Pizza",
+      "price": "120 INR",
+      "res": "Meghna Foods",
+      "quant": "123",
+      "image": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg",
+      "category": "veg",
+      "rating": "3"
+    },
+    {
+      "id": "425f",
+      "name": "Pasta",
+      "price": "90 INR",
+      "res": "Meghna Foods",
+      "quant": "100",
+      "image": "https://myfoodstory.com/wp-content/uploads/2023/01/air-fryer-pasta-square-2.jpg",
+      "category": "veg",
+      "rating": "4"
+    },
+    {
+      "id": "1bcb",
+      "name": "Burger",
+      "price": "60 INR /-",
+      "res": "Burger King",
+      "quant": "123",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/5/61555/8c49ba335683507ba6ddee2dc84966e8_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.3"
+    },
+    {
+      "id": "b5d9",
+      "name": "Kaju Barfi",
+      "price": "700 INR /- kg",
+      "res": "Kanti Sweets",
+      "quant": "500",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/50550/3028ae83d6b6a3450c0a93c83b20f949_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.5"
+    },
+    {
+      "id": "77cd",
+      "name": "Choco pastries",
+      "price": "50 INR /-",
+      "res": "Polar Bear",
+      "quant": "500",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/2/50812/21c544e626cbf40a91c8b236014b2682_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.5"
+    },
+    {
+      "id": "6613",
+      "name": "Mixed Dry Fruits",
+      "price": "500 INR /- kg",
+      "res": "Asha Sweets",
+      "quant": "500",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/56290/4b73d8dbb52511998d95c5b5fb0ce946_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4"
+    },
+    {
+      "id": "978d",
+      "name": "Mysore Pak",
+      "price": "150 /- gm",
+      "res": "Sangam Sweets",
+      "quant": "123",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/54670/8a9683e4f510d586345a83fef84ce6e6_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.3"
+    },
+    {
+      "id": "803b",
+      "name": "Fried rice",
+      "price": "150 /- gm",
+      "res": "Apna Halwai",
+      "quant": "123",
+      "image": "https://b.zmtcdn.com/data/pictures/4/19535924/e444676e6ebb3707de33f56c8fb9d782_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.7"
+    },
+    {
+      "id": "1355",
+      "name": "Poori Bhaji",
+      "price": "120 INR /-",
+      "res": "Lal Sweets",
+      "quant": "234",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/9/54259/2220a26c3db9c45bd2da2765d4d09b33_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.3"
+    },
+    {
+      "id": "bc1f",
+      "name": "Noodles",
+      "price": "50 INR /-",
+      "res": "Nandi ",
+      "quant": "700",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/2/19457932/268991a2134be964715fd47d4b493bbf_o2_featured_v2.jpg",
+      "category": "",
+      "rating": "4.8"
+    }
+  ]
+}
